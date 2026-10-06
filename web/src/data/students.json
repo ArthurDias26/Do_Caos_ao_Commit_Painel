@@ -9,7 +9,7 @@
   },
   {
     "id": "2",
-    "fullName": "Vinicius Pires",
+    "fullName": "Vinicius Pires", 
     "occupation": "Desenvolvedor de Software",
     "completionYear": 2026,
     "imageUrl": "https://github.com/ViniciusPiresAntolin.png",
@@ -22,5 +22,13 @@
     "completionYear": 2026,
     "imageUrl": "https://github.com/marinafviana.png",
     "profileUrl": "https://github.com/marinafviana"
+  },
+  {
+    "id": "4",
+    "fullName": "Pedro Henkujo",
+    "occupation": "Aluno da ETEC",
+    "completionYear": 2026,
+    "imageUrl": "https://github.com/pedrohenkujo.png",
+    "profileUrl": "https://github.com/pedrohenkujo"
   }
 ]
