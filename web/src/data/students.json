@@ -38,5 +38,13 @@
     "completionYear": 2026,
     "imageUrl": "https://github.com/matheusson67.png",
     "profileUrl": "https://github.com/matheusson67"
+  },
+  {
+    "id": "6",
+    "fullName": "Debora Martin",
+    "occupation": "Aluna do DS",
+    "completionYear": 2026,
+    "imageUrl": "https://github.com/debora812.png",
+    "profileUrl": "https://github.com/debora812"
   }
 ]
