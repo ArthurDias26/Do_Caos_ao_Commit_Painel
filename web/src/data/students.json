@@ -46,5 +46,13 @@
     "completionYear": 2026,
     "imageUrl": "https://github.com/debora812.png",
     "profileUrl": "https://github.com/debora812"
+  },
+  {
+    "id": "7",
+    "fullName": "Paulo Alves Maciel Cabral",
+    "occupation": "Aluno da etec",
+    "completionYear": 2028,
+    "imageUrl": "https://github.com/paulotapioca.png",
+    "profileUrl": "https://github.com/paulotapioca"
   }
 ]
