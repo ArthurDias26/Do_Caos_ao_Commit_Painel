@@ -51,8 +51,16 @@
     "id": "7",
     "fullName": "Paulo Alves Maciel Cabral",
     "occupation": "Aluno da etec",
-    "completionYear": 2028,
+    "completionYear": 2026,
     "imageUrl": "https://github.com/paulotapioca.png",
     "profileUrl": "https://github.com/paulotapioca"
+  },
+  {
+    "id": "8",
+    "fullName": "Leonardo Hedras",
+    "occupation": "Aluno Desenvolvimento de Sistemas 1 ano Etec",
+    "completionYear": 2026,
+    "imageUrl": "https://github.com/dygokui3-a11y.png",
+    "profileUrl": "https://github.com/dygokui3-a11y"
   }
 ]
