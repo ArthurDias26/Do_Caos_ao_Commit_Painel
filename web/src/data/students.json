@@ -62,5 +62,13 @@
     "completionYear": 2026,
     "imageUrl": "https://github.com/dygokui3-a11y.png",
     "profileUrl": "https://github.com/dygokui3-a11y"
-  }
+  },
+  {
+    "id": "9",
+    "fullName": "Guilherme Baldan",
+    "occupation": "Desenvolvedora de Software",
+    "completionYear": 2026,
+    "imageUrl": "https://github.com/Psy-GB.png",
+    "profileUrl": "https://github.com/Psy-GB"
+   }
 ]
