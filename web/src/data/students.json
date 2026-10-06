@@ -70,5 +70,13 @@
     "completionYear": 2026,
     "imageUrl": "https://github.com/Psy-GB.png",
     "profileUrl": "https://github.com/Psy-GB"
-   }
+   },
+  {
+    "id": "10",
+    "fullName": "Victor Watanabe",
+    "occupation": "Aluno da etec",
+    "completionYear": 2026,
+    "imageUrl": "https://github.com/VictorWatanabe.png",
+    "profileUrl": "https://github.com/VictorWatanabe"
+  }
 ]
